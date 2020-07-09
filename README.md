@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="250" src="https://raw.githubusercontent.com/SincerelyBrittany/SincerelyBrittany/master/code/bitmoji.jpg">
+  <img width="250" src="https://github.com/SincerelyBrittany/SincerelyBrittany/blob/master/code/bitmoji.JPG">
 </p>
 
 <p align="center">
