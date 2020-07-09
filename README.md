@@ -1,17 +1,17 @@
+![](https://visitor-badge.glitch.me/badge?page_id=sincerelybrittany.sincerelybrittany)
 <h1 align="center"><center> Hi there 👋 </h1></center> 
 
 <p>
   <img width="250" src="https://github.com/SincerelyBrittany/SincerelyBrittany/blob/master/code/bitmoji.JPG">
-  <img width="250" src="https://github.com/SincerelyBrittany/SincerelyBrittany/blob/master/code/intro.gif">
+  <img width="500" src="https://github.com/SincerelyBrittany/SincerelyBrittany/blob/master/code/intro.gif">
 </p>
 
 <p align="center">
 <a href= "https://dev.to/sincerelybrittany"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 <a href= "https://twitter.com/sincerelybrittt"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
-<center>
-![](https://visitor-badge.glitch.me/badge?page_id=sincerelybrittany.sincerelybrittany)
-</center>
+
+
 
 <p align="center">
 Check out my repos ⬇️  
