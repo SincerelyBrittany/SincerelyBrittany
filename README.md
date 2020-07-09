@@ -9,9 +9,9 @@
 <a href= "https://dev.to/sincerelybrittany"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 <a href= "https://twitter.com/sincerelybrittt"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
-
+<center>
 ![](https://visitor-badge.glitch.me/badge?page_id=sincerelybrittany.sincerelybrittany)
-
+</center>
 
 <p align="center">
 Check out my repos ⬇️  
