@@ -12,9 +12,9 @@
 <a href= "https://twitter.com/sincerelybrittt"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
-<p align="center"> Say hey back! 🙂
+<p align="center"> 
   <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FSincerelyBrittany&text=Hi%20@SincerelyBrittt%2C%20saying%20hi%20from%20your%20github%21">
-</a>
+Say hey back! 🙂 </a>
 </p>
 
 <p align="center">
