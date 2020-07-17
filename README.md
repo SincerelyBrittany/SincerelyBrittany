@@ -12,7 +12,10 @@
 <a href= "https://twitter.com/sincerelybrittt"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
-[Feel free to say hi!](https://twitter.com/intent/tweet?text=Hi%20%40sincerelybrittt%20%F0%9F%91%8B.%20I%20am%20saying%20hi%20from%20your%20Github%20profile!%20(https%3A%2F%2Fgithub.com%2Sincerelybrittany)%0A%0A)
+<p align="center"> Say hey back! 🙂
+  <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FSincerelyBrittany&text=Hi%20@SincerelyBrittt%2C%20saying%20hi%20from%20your%20github%21">
+</a>
+</p>
 
 <p align="center">
 Check out my repos ⬇️  
@@ -34,3 +37,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
