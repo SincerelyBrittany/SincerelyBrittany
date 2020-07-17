@@ -17,11 +17,11 @@ You have discovered my Github profile. <br>
 Please feel free to clone projects, raise issues, and submit pull requests. <br>
 Ask me anything <a href="https://github.com/sincerelybrittany/sincerelybrittany/issues/new"><b>here</b></a><br>
 or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FSincerelyBrittany&text=Hi%20@SincerelyBrittt%2C%20saying%20hi%20from%20your%20github%21">
-<b>hey back</b></a>! 🙂 on twitter. </p>
+<b>hey</b></a>on twitter. 🙂 </p>
 
 
 <p align="center">
-Check out my repos ⬇️  
+Check out my repos below ⬇️  
 </p>
 
 
