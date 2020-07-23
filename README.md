@@ -1,5 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=sincerelybrittany.sincerelybrittany)
-
 <h1 align="center"><center> Hey there 👋 </h1></center> 
 
 <p>
@@ -28,7 +26,7 @@ Check out my repos below ⬇️
 
 <!--
 **SincerelyBrittany/SincerelyBrittany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://visitor-badge.glitch.me/badge?page_id=sincerelybrittany.sincerelybrittany)
 Here are some ideas to get you started:
  <!-- <a target="_blank" href="https://www.linkedin.com/in/sincerelybrittany/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
 - 🔭 I’m currently working on ...
