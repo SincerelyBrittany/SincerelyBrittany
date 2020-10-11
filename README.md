@@ -43,10 +43,10 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 </div>
 
 
-<!-- <br/><br>
+<br/><br>
 <p align="center">
-<a href="https://www.buymeacoffee.com/sincerelybrittt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 30px !important;" ></a>
-</p> -->
+<a href="https://www.buymeacoffee.com/sincerelybrittt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 30px;width: 30px;" ></a>
+</p>
 
 
 <!-- <br/> <br/><br><br>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
 
