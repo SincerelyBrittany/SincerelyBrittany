@@ -24,6 +24,10 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sincerelybrittany&show_icons=true&theme=tokyonight)
+
+---
+
 🚨 Latest Blog Post:
 <!-- BLOG-POST-LIST:START -->
 - [Javascript and Rails Single Page Application ("SPA")](https://dev.to/sincerelybrittany/javascript-and-rails-single-page-application-spa-3opc)
