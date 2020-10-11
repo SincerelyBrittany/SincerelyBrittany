@@ -22,14 +22,14 @@ Ask me anything <a href="https://github.com/sincerelybrittany/sincerelybrittany/
 or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FSincerelyBrittany&text=Hi%20@SincerelyBrittt%2C%20saying%20hi%20from%20your%20github%21">
 <b>hey</b></a> on twitter. 🙂 </p>
 
-🚨 🚨 🚨  ## Latest Blog Post:
+---
+
+## 🚨 🚨 🚨  Latest Blog Post:
 <!-- BLOG-POST-LIST:START -->
 - [Javascript and Rails Single Page Application ("SPA")](https://dev.to/sincerelybrittany/javascript-and-rails-single-page-application-spa-3opc)
 - [My Experience With  #100DaysofCode](https://dev.to/sincerelybrittany/my-experience-with-100daysofcode-53e9)
 - [Day 100 : #100DaysofCode - I DID IT!](https://dev.to/sincerelybrittany/day-100-100daysofcode-i-did-it-20e5)
 <!-- BLOG-POST-LIST:END -->
-
----
 
 ## :trophy: My Github Stats:
 
