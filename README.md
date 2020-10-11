@@ -1,7 +1,7 @@
-
+<p align="center">
 ![](https://visitor-badge.laobi.icu/badge?page_id=SincerelyBrittany.SincerelyBrittany)
 [![Github](https://img.shields.io/github/followers/SincerelyBrittany?label=Follow&style=social)](https://github.com/SincerelyBrittany)
-
+</p>
 
 <h1 align="center"><center> Hey there 👋 </h1></center> 
 
