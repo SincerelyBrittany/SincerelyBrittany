@@ -38,17 +38,17 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=sincerelybrittany&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sincerelybrittany&hide=php&theme=tokyonight">
-  <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sincerelybrittany&hide=php&theme=tokyonight" />
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sincerelybrittany&hide=php&theme=tokyonight" />
 </a>
 </div>
-
+<!-- 
 <hr>
 <hr>
 <hr>
 <br/><br/><br><br>
 <h2 align="center">
 Check out my repos below ⬇️  
-</h2>
+</h2> -->
 
 
 <!-- <br/><br>
