@@ -22,8 +22,6 @@ Ask me anything <a href="https://github.com/sincerelybrittany/sincerelybrittany/
 or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FSincerelyBrittany&text=Hi%20@SincerelyBrittt%2C%20saying%20hi%20from%20your%20github%21">
 <b>hey</b></a> on twitter. 🙂 </p>
 
-<br/><br/>
-
 ---
 
 🚨 Latest Blog Post:
