@@ -24,10 +24,16 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sincerelybrittany&show_icons=true&theme=tokyonight)
+## :trophy: My Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincerelybrittany&theme=tokyonight)
-
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=sincerelybrittany&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=sincerelybrittany&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sincerelybrittany&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sincerelybrittany&hide=php&theme=tokyonight" />
+</a>
+</div>
 ---
 
 🚨 Latest Blog Post:
