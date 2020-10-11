@@ -33,7 +33,7 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 ## :trophy: My Github Stats:
 
-<div align="left">
+<div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=sincerelybrittany&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=sincerelybrittany&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
