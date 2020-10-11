@@ -1,4 +1,6 @@
 <h1 align="center"><center> Hey there 👋 </h1></center> 
+![](https://visitor-badge.laobi.icu/badge?page_id=SincerelyBrittany.SincerelyBrittany)
+[![Github](https://img.shields.io/github/followers/SincerelyBrittany?label=Follow&style=social)](https://github.com/SincerelyBrittany)
 
 <p>
   <img width="250" src="https://github.com/SincerelyBrittany/SincerelyBrittany/blob/master/code/bitmoji.JPG">
