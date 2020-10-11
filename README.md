@@ -43,6 +43,10 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 </div>
 
 
+<br/><br>
+<p align="center">
+<a href="https://www.buymeacoffee.com/sincerelybrittt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
 
 
 <!-- <br/> <br/><br><br>
