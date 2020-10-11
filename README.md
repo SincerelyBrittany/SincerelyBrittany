@@ -24,7 +24,7 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 ---
 
-## 🚨  Latest Blog Post:
+## 🚨  Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Javascript and Rails Single Page Application ("SPA")](https://dev.to/sincerelybrittany/javascript-and-rails-single-page-application-spa-3opc)
 - [My Experience With  #100DaysofCode](https://dev.to/sincerelybrittany/my-experience-with-100daysofcode-53e9)
