@@ -48,14 +48,14 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
     />
     </a>
 </p>
-<!-- 
+
+
 <hr>
-<hr>
-<hr>
+
 <br/><br/><br><br>
 <h2 align="center">
 Check out my repos below ⬇️  
-</h2> -->
+</h2> 
 
 
 <!-- <br/><br>
