@@ -26,9 +26,9 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 ## 🚨  Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Javascript and Rails Single Page Application ("SPA")](https://dev.to/sincerelybrittany/javascript-and-rails-single-page-application-spa-3opc)
 - [My Experience With  #100DaysofCode](https://dev.to/sincerelybrittany/my-experience-with-100daysofcode-53e9)
 - [Day 100 : #100DaysofCode - I DID IT!](https://dev.to/sincerelybrittany/day-100-100daysofcode-i-did-it-20e5)
-- [Day 99 : #100DaysofCode - Participated in CS50 Week 1 - C](https://dev.to/sincerelybrittany/day-99-100daysofcode-participated-in-cs50-week-1-c-40cj)
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My Github Stats:
