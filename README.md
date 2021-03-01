@@ -5,7 +5,7 @@
 
 <h1 align="center">Hey there 👋 </h1>
 
-<p>
+<p align="center">
 <!--   <img width="250" src="https://github.com/SincerelyBrittany/SincerelyBrittany/blob/master/code/bitmoji.JPG"> -->
   <img width="500" src="https://github.com/SincerelyBrittany/SincerelyBrittany/blob/master/code/intro2.gif">
 </p>
