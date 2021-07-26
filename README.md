@@ -32,20 +32,13 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My Github Stats:
-
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=sincerelybrittany&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=sincerelybrittany&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
   
   ![Sincerely Brittany's GitHub stats](https://github-readme-stats.vercel.app/api?username=sincerelybrittany&show_icons=true&theme=radical)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincerelybrittany)](https://github.com/sincerelybrittany/github-readme-stats)
 
-  
-  
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sincerelybrittany&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sincerelybrittany&hide=php&theme=tokyonight" />
-</a>
-</div>
+
+ 
 
 <br/><br/><br><br><br><br><br><br><br><br><br><br><br>
 
