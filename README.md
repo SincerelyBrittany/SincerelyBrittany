@@ -38,9 +38,6 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincerelybrittany)](https://github.com/sincerelybrittany/github-readme-stats)
 
 
- 
-
-<br/><br/><br><br><br><br><br><br><br><br><br><br><br>
 
 
 <hr>
