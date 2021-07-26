@@ -33,7 +33,7 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 ## :trophy: My Github Stats:
 
-<div>
+<div class="center">
 <a href="https://github-readme-stats.vercel.app/api?username=sincerelybrittany&show_icons=true&theme=radical">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sincerelybrittany&show_icons=true&theme=radical" />
 </a>
@@ -49,6 +49,9 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincerelybrittany&theme=radical)](https://github.com/sincerelybrittany/github-readme-stats)
   
   </div> -->
+  
+  [![Sincerely Brittany's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sincerelybrittany)](https://github.com/sincerelybrittany/github-readme-stats)
+
 
 <br/><br/><br><br><br><br><br><br><br><br><br><br><br>
 
