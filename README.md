@@ -50,7 +50,8 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
   
   </div> -->
   
-  [![Sincerely Brittany's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sincerelybrittany)](https://github.com/sincerelybrittany/github-readme-stats)
+  [![Sincerely Brittany's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sincerelybrittany)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 
 <br/><br/><br><br><br><br><br><br><br><br><br><br><br>
