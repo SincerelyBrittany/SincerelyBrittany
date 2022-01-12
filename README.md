@@ -23,7 +23,7 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 <b>hey</b></a> on twitter. 🙂 </p>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sincerelybrittt"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sincerelybrittt" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/sincerelybrittt"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sincerelybrittt" /></a></p><br><br>
 
 ---
 
