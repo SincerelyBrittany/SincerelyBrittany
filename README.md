@@ -22,6 +22,9 @@ Ask me anything <a href="https://github.com/sincerelybrittany/sincerelybrittany/
 or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FSincerelyBrittany&text=Hi%20@SincerelyBrittt%2C%20saying%20hi%20from%20your%20github%21">
 <b>hey</b></a> on twitter. 🙂 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sincerelybrittt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sincerelybrittt" /></a></p><br><br>
+
 ---
 
 ## 🚨  Latest Blog Posts:
@@ -56,7 +59,7 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sincerelybrittany&" alt="sincerelybrittany" /></p>
 
 
-<br/><br/><br><br><br><br><br><br><br><br><br><br><br>
+<!-- <br/><br/><br><br><br><br><br><br><br><br><br><br><br> -->
 
 
 <hr>
