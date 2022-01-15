@@ -44,7 +44,7 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sincerelybrittany&" alt="sincerelybrittany" /></p>
 
-
+<br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sincerelybrittany">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sincerelybrittany" />
 </a>
