@@ -29,9 +29,9 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 ## 🚨  Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Helpful Online Tools](https://dev.to/sincerelybrittany/helpful-online-tools-nlj)
+- [How did I get my first job as a software engineer?](https://dev.to/sincerelybrittany/how-did-i-get-my-first-job-as-a-software-engineer-30kn)
 - [Made My First Fetch Request Using Next.js](https://dev.to/sincerelybrittany/made-my-first-fetch-request-using-next-js-19i3)
-- [My Final Project - Built With React, Redux, and Rails](https://dev.to/sincerelybrittany/my-final-project-built-with-react-redux-and-rails-3lk3)
-- [Javascript and Rails Single Page Application &lpar;&quot;SPA&quot;&rpar;](https://dev.to/sincerelybrittany/javascript-and-rails-single-page-application-spa-3opc)
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My Github Stats:
