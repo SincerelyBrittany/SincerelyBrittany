@@ -29,9 +29,9 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 ## 🚨  Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [I want to build an open sourced parking app because I live in NYC](https://dev.to/sincerelybrittany/i-want-to-build-an-open-sourced-parking-app-because-i-live-in-nyc-556j)
 - [Helpful Online Tools](https://dev.to/sincerelybrittany/helpful-online-tools-nlj)
 - [How did I get my first job as a software engineer?](https://dev.to/sincerelybrittany/how-did-i-get-my-first-job-as-a-software-engineer-30kn)
-- [Made My First Fetch Request Using Next.js](https://dev.to/sincerelybrittany/made-my-first-fetch-request-using-next-js-19i3)
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My Github Stats:
