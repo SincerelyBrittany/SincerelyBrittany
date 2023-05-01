@@ -29,9 +29,9 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 ## 🚨  Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How To Connect Your AWS Domain Name To BlueSky](https://dev.to/sincerelybrittany/how-to-connect-your-aws-domain-name-to-bluesky-55kg)
 - [I want to build an open sourced parking app because I live in NYC](https://dev.to/sincerelybrittany/i-want-to-build-an-open-sourced-parking-app-because-i-live-in-nyc-556j)
 - [Helpful Online Tools](https://dev.to/sincerelybrittany/helpful-online-tools-nlj)
-- [How did I get my first job as a software engineer?](https://dev.to/sincerelybrittany/how-did-i-get-my-first-job-as-a-software-engineer-30kn)
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My Github Stats:
