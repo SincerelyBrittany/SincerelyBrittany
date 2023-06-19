@@ -29,9 +29,9 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 ## 🚨  Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Pramp - Interview Type: Frontend - Flip Counter](https://dev.to/sincerelybrittany/pramp-interview-type-frontend-flip-counter-4l8b)
 - [Part 1: Setting up postgres for a simple C.R.U.D. using Nodejs &lpar;express&rpar;](https://dev.to/sincerelybrittany/part-1-setting-up-postgres-for-a-simple-crud-using-nodejs-express-1hjk)
 - [How To Connect Your AWS Domain Name To BlueSky](https://dev.to/sincerelybrittany/how-to-connect-your-aws-domain-name-to-bluesky-55kg)
-- [I want to build an open sourced parking app because I live in NYC](https://dev.to/sincerelybrittany/i-want-to-build-an-open-sourced-parking-app-because-i-live-in-nyc-556j)
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My Github Stats:
