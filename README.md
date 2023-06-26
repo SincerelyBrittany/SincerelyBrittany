@@ -1,8 +1,3 @@
-
-![](https://visitor-badge.laobi.icu/badge?page_id=SincerelyBrittany.SincerelyBrittany)
-[![Github](https://img.shields.io/github/followers/SincerelyBrittany?label=Follow&style=social)](https://github.com/SincerelyBrittany)
-
-
 <h1 align="center">Hey there 👋 </h1>
 
 <p align="center">
@@ -34,38 +29,6 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 - [Part 1: Setting up postgres for a simple C.R.U.D. using Nodejs &lpar;express&rpar;](https://dev.to/sincerelybrittany/part-1-setting-up-postgres-for-a-simple-crud-using-nodejs-express-1hjk)
 <!-- BLOG-POST-LIST:END -->
 
-## :trophy: My Github Stats:
-
-<!-- <div class="center"> -->
-
-<a href="https://github-readme-stats.vercel.app/api?username=sincerelybrittany&show_icons=true">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sincerelybrittany&show_icons=true" />
-</a>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sincerelybrittany&" alt="sincerelybrittany" /></p>
-
-<br><br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sincerelybrittany">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sincerelybrittany" />
-</a>
-
-<!-- </div> -->
-
-<!-- <div>
-
-  ![Sincerely Brittany's GitHub stats](https://github-readme-stats.vercel.app/api?username=sincerelybrittany&show_icons=true&theme=radical) 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincerelybrittany&theme=radical)](https://github.com/sincerelybrittany/github-readme-stats)
-  
-  </div> -->
-  
-<!--   [![Sincerely Brittany's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sincerelybrittany)](https://github.com/anuraghazra/github-readme-stats)
-   -->
-   
-
-
-
- <br><br><br><br><br>
 
 
 <hr>
