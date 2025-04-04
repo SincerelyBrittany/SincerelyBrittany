@@ -1,36 +1,34 @@
-<h1 align="center">Hey there 👋 </h1>
 
-<p align="center">
-<!--   <img width="250" src="https://github.com/SincerelyBrittany/SincerelyBrittany/blob/master/code/bitmoji.JPG"> -->
-  <img width="500" src="https://github.com/SincerelyBrittany/SincerelyBrittany/blob/master/code/intro2.gif">
+
+# **👋 Hi, I'm Brittany!**  
+
+🚀 **Aspiring Cloud Security Engineer | Software Engineer with a Compliance & FinTech Background**  
+
+
+🌱 **Currently Learning**: AWS Cloud & Cybersecurity, preparing for AWS Cloud Practitioner & CompTIA Security+ certifications.  
+
+👩🏾‍💻 **Looking to Collaborate**: Security-focused Python projects, cloud security automation, open-source cybersecurity tools, and networking with professionals in cloud & cybersecurity.  
+
+💼 **Open to Opportunities**: Actively seeking roles in **cybersecurity, cloud security, and security-focused software engineering**—let’s connect!  
+
+💬 **Ask Me About**: Coding, finance , cloud security, compliance in fintech, and transitioning into cybersecurity from a software engineering background.  
+
+
+
+## **📬 Let's Connect!**  
+<p>
+<a href="https://dev.to/sincerelybrittany"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href="https://twitter.com/sincerelybrittt"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
-<div align="center">
-🌱 I’m currently learning AWS Cloud & Cybersecurity, preparing for AWS Cloud Practitioner and CompTIA Security+ certifications to strengthen my expertise.
 
-👯 I’m looking to collaborate on security-focused Python projects, cloud security automation, open-source cybersecurity tools, and I’m open to opportunities in cybersecurity and cloud security.
+📩 **Open to networking, job opportunities, and collaborations!**  
+📢 **Ask me anything** → [Submit an issue](https://github.com/sincerelybrittany/sincerelybrittany/issues/new)  
+🐦 **Say hi on Twitter** → [Tweet me](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FSincerelyBrittany&text=Hi%20@SincerelyBrittt%2C%20saying%20hi%20from%20your%20GitHub%21)  
 
-🤔 I’m looking for help with best practices for securing cloud environments, penetration testing techniques, and connecting with professionals in the cybersecurity and cloud space for job opportunities.
-
-💬 Ask me about Python, cloud security, compliance in fintech, and transitioning into cybersecurity from a software engineering background.
-</div>
-
-<p align="center">
-<a href= "https://dev.to/sincerelybrittany"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/sincerelybrittt"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-</p>
-
-<p align="center"> 
-You have discovered my Github profile. <br>
-Please feel free to clone projects, raise issues, and submit pull requests. <br>
-Ask me anything <a href="https://github.com/sincerelybrittany/sincerelybrittany/issues/new"><b>here</b></a><br>
-or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FSincerelyBrittany&text=Hi%20@SincerelyBrittt%2C%20saying%20hi%20from%20your%20github%21">
-<b>hey</b></a> on twitter. 🙂 </p>
+---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/sincerelybrittt"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sincerelybrittt" /></a></p><br><br>
-
-
-
+<p align="center"><a href="https://www.buymeacoffee.com/sincerelybrittt"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sincerelybrittt" /></a></p><br>
 
 <hr>
 <h2 align="center">
@@ -71,6 +69,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
+## **📂 Featured Projects**  
+🔹 **[Python Port Scanner](#)** - Scans open ports on a target IP, helping identify network vulnerabilities.  
+🔹 **[Cloud Security Automation](#)** - Automating security best practices in AWS using Python & Terraform.  
+🔹 **[Threat Detection Dashboard](#)** - A real-time security monitoring tool built with Python and cloud-native technologies.  
+
+📌 *Check out more of my projects in the repositories!*  
 -->
 
 
