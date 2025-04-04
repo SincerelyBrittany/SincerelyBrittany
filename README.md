@@ -20,14 +20,6 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/sincerelybrittt"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sincerelybrittt" /></a></p><br><br>
 
----
-
-## 🚨  Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [A Freeform Assignment](https://dev.to/sincerelybrittany/a-freeform-assignment-2oc0)
-- [Pramp - Interview Type: Frontend - Flip Counter](https://dev.to/sincerelybrittany/pramp-interview-type-frontend-flip-counter-4l8b)
-- [Part 1: Setting up postgres for a simple C.R.U.D. using Nodejs &lpar;express&rpar;](https://dev.to/sincerelybrittany/part-1-setting-up-postgres-for-a-simple-crud-using-nodejs-express-1hjk)
-<!-- BLOG-POST-LIST:END -->
 
 
 
@@ -56,6 +48,17 @@ Check out my repos below ⬇️
 
 
 <!--
+
+---
+
+## 🚨  Latest Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+- [A Freeform Assignment](https://dev.to/sincerelybrittany/a-freeform-assignment-2oc0)
+- [Pramp - Interview Type: Frontend - Flip Counter](https://dev.to/sincerelybrittany/pramp-interview-type-frontend-flip-counter-4l8b)
+- [Part 1: Setting up postgres for a simple C.R.U.D. using Nodejs &lpar;express&rpar;](https://dev.to/sincerelybrittany/part-1-setting-up-postgres-for-a-simple-crud-using-nodejs-express-1hjk)
+<!-- BLOG-POST-LIST:END -->
+
+
 **SincerelyBrittany/SincerelyBrittany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://visitor-badge.glitch.me/badge?page_id=sincerelybrittany.sincerelybrittany)
 Here are some ideas to get you started:
