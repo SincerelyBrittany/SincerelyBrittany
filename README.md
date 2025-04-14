@@ -2,18 +2,29 @@
 
 # **👋 Hi, I'm Brittany!**  
 
-🚀 **Aspiring Cloud Security Engineer | Software Engineer with a Compliance & FinTech Background**  
 
+🚀 **Cloud Security–Focused Software Engineer | Compliance Meets Code**
 
-🌱 **Currently Learning**: AWS Cloud & Cybersecurity, preparing for AWS Cloud Practitioner & CompTIA Security+ certifications.  
+🎯 *Blending fintech, compliance, and code to build secure, scalable solutions.*
 
-👩🏾‍💻 **Looking to Collaborate**: Security-focused Python projects, cloud security automation, open-source cybersecurity tools, and networking with professionals in cloud & cybersecurity.  
+🌱 **Currently Leveling Up:**  
+Studying for **AWS Cloud Practitioner** & **CompTIA Security+** certifications. Hands-on with Python, JavaScript, AWS, and security automation.
 
-💼 **Open to Opportunities**: Actively seeking roles in **cybersecurity, cloud security, and security-focused software engineering**—let’s connect!  
+👩🏾‍💻 **Let’s Collaborate On:**  
+Cloud security tools, Python security automation, infrastructure as code, secure API development, or open-source projects in the cybersecurity space.
 
-💬 **Ask Me About**: Coding, finance , cloud security, compliance in fintech, and transitioning into cybersecurity from a software engineering background.  
+💼 **Actively Open to Work:**  
+Looking for roles in **cloud security, cybersecurity, DevSecOps**, or **security-minded software engineering**.  
+*Bonus points* if the role lets me grow in cloud or automation and work with a mission-driven team.
 
+💬 **Ask Me About:**  
+- Cloud security as a career switch from software engineering  
+- Compliance + Fintech insights  
+- Building with React, Ruby on Rails, Node.js, or AWS  
+- Combining technical skills with regulatory smarts  
+- Learning security *without* a CS degree!
 
+🧠 **Fun Fact:** I transitioned from finance/regulatory work to full-stack engineering and now I’m diving head-first into cybersecurity and cloud — because protecting what we build *matters*.
 
 ## **📬 Let's Connect!**  
 <p>
