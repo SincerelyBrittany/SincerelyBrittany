@@ -1,5 +1,5 @@
 
-
+<!--
 # **👋 Hi, I'm Brittany!**  
 
 
@@ -25,6 +25,7 @@ Looking for roles in **cloud security, cybersecurity, DevSecOps**, or **security
 - Learning security *without* a CS degree!
 
 🧠 **Fun Fact:** I transitioned from finance/regulatory work to full-stack engineering and now I’m diving head-first into cybersecurity and cloud — because protecting what we build *matters*.
+-->
 
 ## **📬 Let's Connect!**  
 <p>
